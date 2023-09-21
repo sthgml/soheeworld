@@ -18,5 +18,8 @@
 - git branch sohee
 - git checkout sohee
 
+(first commit) : branch가 존재하지 않기 때문에 push할 때 에러발생! 
+>> upstream branch를 설정하지 않았기 때문!
 
-
+## git branch 삭제하기
+- 사용법 :  git branch -D <branch명>
